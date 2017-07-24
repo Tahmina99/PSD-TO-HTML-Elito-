@@ -1,0 +1,71 @@
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.slide-content h1 {
+	line-height: 69px!important;
+
+	font-size: 50px!important;
+}
+    .common-font-18
+    {
+        font-size: 18px!important;
+    }
+    .common-font-16
+    {
+        font-size: 16px!important;
+    }
+    .overview-item h2 {
+	font-size: 36px!important;
+}
+    .overview-item .btn {
+	width: 139px!important;
+}
+    .portfolio-item h2 {
+	font-size: 31px!important;
+}
+    .brand-right {
+	
+	padding: 41px 45px !important;
+}
+    .contact-right p {
+	
+	font-size: 24px!important;
+}
+}
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .slide-content h1 {
+	line-height: 69px!important;
+
+	font-size: 47px!important;
+}
+    .common-font-18
+    {
+        font-size: 18px!important;
+    }
+    .common-font-16
+    {
+        font-size: 16px!important;
+    }
+    .overview-item h2 {
+	font-size: 36px!important;
+}
+    .overview-item .btn {
+	width: 139px!important;
+}
+    .portfolio-item h2 {
+	font-size: 31px!important;
+}
+    .brand-right {
+	
+	padding: 41px 45px !important;
+}
+     .contact-right p {
+	
+	font-size: 24px!important;
+}
+}
